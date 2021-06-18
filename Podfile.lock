@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (5.4.3)
+  - GoogleMaps (3.10.0-beta1):
+    - GoogleMaps/Maps (= 3.10.0-beta1)
+  - GoogleMaps/Base (3.10.0-beta1)
+  - GoogleMaps/Maps (3.10.0-beta1):
+    - GoogleMaps/Base
+  - GooglePlaces (3.10.0-beta1):
+    - GoogleMaps/Base (= 3.10.0-beta1)
+  - Realm (10.1.4):
+    - Realm/Headers (= 10.1.4)
+  - Realm/Headers (10.1.4)
+  - RealmSwift (10.1.4):
+    - Realm (= 10.1.4)
+  - SwiftyJSON (4.3.0)
+  - YandexMapsMobile (4.0.0-full)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - GoogleMaps (= 3.10.0-beta1)
+  - GooglePlaces (= 3.10.0-beta1)
+  - RealmSwift (= 10.1.4)
+  - SwiftyJSON (~> 4.0)
+  - YandexMapsMobile (= 4.0.0-full)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - YandexMapsMobile
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  GoogleMaps: 17598f733b70288939758dad9bafd7dfeab3c1dc
+  GooglePlaces: 5de0ebadf18689d16bacd6b4a65f30c319678ffd
+  Realm: 80f4fb2971ccb9adc27a47d0955ae8e533a7030b
+  RealmSwift: 0e566ca714edb377bba8ea0811eafcea0b93734e
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  YandexMapsMobile: 0f3d8c92fad685dc33d07f83eed4eb0166089743
+
+PODFILE CHECKSUM: 0ff26d8324db2411e2f1248d7a33340d23d91d36
+
+COCOAPODS: 1.10.1

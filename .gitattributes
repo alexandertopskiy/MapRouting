@@ -1,0 +1,2 @@
+File[[:space:]]Pods/Realm/core/realm-sync.xcframework/watchos-arm64_i386_x86_64-simulator/librealm-sync.a filter=lfs diff=lfs merge=lfs -text
+Pods/YandexMapsMobile/YandexMapsMobile.framework/Versions/A/YandexMapsMobile filter=lfs diff=lfs merge=lfs -text
